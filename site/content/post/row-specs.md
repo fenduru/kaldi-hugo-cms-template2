@@ -9,6 +9,8 @@ image: null
 
 ### Interaction
 * Click to do stuff
+* Double click
 
 ![undefined](/img/Sample_IncompatibleUnsavedCell.png)
+
 
