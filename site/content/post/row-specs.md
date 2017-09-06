@@ -5,9 +5,10 @@ description: Intro
 image: null
 ---
 ### Visual Design
-* Border: 1px solid black
+* Border: 2px solid black
 
 ### Interaction
 * Click to do stuff
 
 ![undefined](/img/Sample_IncompatibleUnsavedCell.png)
+
